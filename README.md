@@ -1,2 +1,7 @@
 # COVID19
-Graphics of Covid19 data in respect to Brazil
+Graphics of Covid19 data in Brazil
+
+#### Usando recursos de:
+BrasilIO 
+
+
